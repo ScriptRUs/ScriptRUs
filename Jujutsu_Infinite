@@ -1,0 +1,6 @@
+--[[
+  I Hold No Ownership For This Script. All Credits Go To The Devs Who Created This Script.
+  Their Discord: https://discord.gg/rSZJGSr5FW
+]]
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/debunked69/Solixreworkkeysystem/refs/heads/main/solix%20new%20keyui.lua"))() 
