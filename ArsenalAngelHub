@@ -1,0 +1,4 @@
+--[[
+  This Is A Script I Showcased On Youtube. All Credits Go To Original Owners Who Put Hard Time Into Developing The Scripts!
+]]
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Fentdealer47/angelshub/refs/heads/main/main.lua'))()
