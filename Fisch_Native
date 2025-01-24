@@ -1,0 +1,8 @@
+--[[
+  Subscribe To My Channel & Watch My Videos FULLY!
+  http://www.youtube.com/@ScriptRUs
+  I Find The Best Mods I Can FOR FREE To All Of You
+]]
+
+script_key="Enter Key Here!";
+(loadstring or load)(game:HttpGet("https://raw.githubusercontent.com/Native-lab/Native/main/loader.lua"))()
