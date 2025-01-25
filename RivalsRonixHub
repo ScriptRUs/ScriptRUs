@@ -1,0 +1,8 @@
+--[[
+    I Hold No Rights To This Script. Do Not Executed Any Scripts From Someone Who Claims To Be Me. I Will Never
+    Send Discord Links, Via Discord, Or Any Other Password That Is Not From My Descriptions.
+    Any Scripts Not From My Channel - www.youtube.com/@ScriptRUs - Description MAY NOT BE SAFE!
+]]--
+
+
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/2136f3786fd368193dd152c435d7ebfb.lua"))()
